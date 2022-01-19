@@ -4,4 +4,4 @@ Olá! Bem vindo ao livro de receitas.
 
  - Strognoff de Frango
  - Pavê
- - Picole
+ - Bolo de Cenoura
